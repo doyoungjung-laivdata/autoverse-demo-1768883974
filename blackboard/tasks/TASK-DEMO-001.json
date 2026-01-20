@@ -1,0 +1,11 @@
+{
+  "task_id": "TASK-DEMO-001",
+  "type": "feature",
+  "title": "Implement Landing Page",
+  "description": "Create index.html based on Spec",
+  "status": "TODO",
+  "files_to_create": [
+    "index.html"
+  ],
+  "dependencies": []
+}
